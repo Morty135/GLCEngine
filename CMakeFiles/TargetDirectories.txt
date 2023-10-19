@@ -1,0 +1,12 @@
+/home/morty/code/GLCEngine/CMakeFiles/GLCEngine.dir
+/home/morty/code/GLCEngine/CMakeFiles/edit_cache.dir
+/home/morty/code/GLCEngine/CMakeFiles/rebuild_cache.dir
+/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/CMakeFiles/edit_cache.dir
+/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/CMakeFiles/rebuild_cache.dir
+/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/CMakeFiles/update_mappings.dir
+/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir
+/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/CMakeFiles/edit_cache.dir
+/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/CMakeFiles/rebuild_cache.dir
+/home/morty/code/GLCEngine/thirdparty/glad/CMakeFiles/glad.dir
+/home/morty/code/GLCEngine/thirdparty/glad/CMakeFiles/edit_cache.dir
+/home/morty/code/GLCEngine/thirdparty/glad/CMakeFiles/rebuild_cache.dir

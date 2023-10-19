@@ -1,0 +1,3 @@
+/home/morty/code/GLCEngine/thirdparty/glad/CMakeFiles/glad.dir
+/home/morty/code/GLCEngine/thirdparty/glad/CMakeFiles/edit_cache.dir
+/home/morty/code/GLCEngine/thirdparty/glad/CMakeFiles/rebuild_cache.dir

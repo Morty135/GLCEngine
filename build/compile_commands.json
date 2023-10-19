@@ -1,0 +1,146 @@
+[
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/g++ -DRESOURCES_PATH=\\\"./resources/\\\" -I/home/morty/code/GLCEngine/headers -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glad/include -I/home/morty/code/GLCEngine/thirdparty/glm -g -std=gnu++17 -o CMakeFiles/GLCEngine.dir/src/camera2D.cpp.o -c /home/morty/code/GLCEngine/src/camera2D.cpp",
+  "file": "/home/morty/code/GLCEngine/src/camera2D.cpp",
+  "output": "CMakeFiles/GLCEngine.dir/src/camera2D.cpp.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/g++ -DRESOURCES_PATH=\\\"./resources/\\\" -I/home/morty/code/GLCEngine/headers -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glad/include -I/home/morty/code/GLCEngine/thirdparty/glm -g -std=gnu++17 -o CMakeFiles/GLCEngine.dir/src/gameObject2D.cpp.o -c /home/morty/code/GLCEngine/src/gameObject2D.cpp",
+  "file": "/home/morty/code/GLCEngine/src/gameObject2D.cpp",
+  "output": "CMakeFiles/GLCEngine.dir/src/gameObject2D.cpp.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/g++ -DRESOURCES_PATH=\\\"./resources/\\\" -I/home/morty/code/GLCEngine/headers -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glad/include -I/home/morty/code/GLCEngine/thirdparty/glm -g -std=gnu++17 -o CMakeFiles/GLCEngine.dir/src/inputSystem.cpp.o -c /home/morty/code/GLCEngine/src/inputSystem.cpp",
+  "file": "/home/morty/code/GLCEngine/src/inputSystem.cpp",
+  "output": "CMakeFiles/GLCEngine.dir/src/inputSystem.cpp.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/g++ -DRESOURCES_PATH=\\\"./resources/\\\" -I/home/morty/code/GLCEngine/headers -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glad/include -I/home/morty/code/GLCEngine/thirdparty/glm -g -std=gnu++17 -o CMakeFiles/GLCEngine.dir/src/main.cpp.o -c /home/morty/code/GLCEngine/src/main.cpp",
+  "file": "/home/morty/code/GLCEngine/src/main.cpp",
+  "output": "CMakeFiles/GLCEngine.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/g++ -DRESOURCES_PATH=\\\"./resources/\\\" -I/home/morty/code/GLCEngine/headers -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glad/include -I/home/morty/code/GLCEngine/thirdparty/glm -g -std=gnu++17 -o CMakeFiles/GLCEngine.dir/src/shaderProgram.cpp.o -c /home/morty/code/GLCEngine/src/shaderProgram.cpp",
+  "file": "/home/morty/code/GLCEngine/src/shaderProgram.cpp",
+  "output": "CMakeFiles/GLCEngine.dir/src/shaderProgram.cpp.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/context.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/context.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/context.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/init.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/init.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/init.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/input.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/input.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/input.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/monitor.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/monitor.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/monitor.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/vulkan.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/vulkan.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/vulkan.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/window.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/window.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/window.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_init.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/x11_init.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/x11_init.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_init.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_monitor.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/x11_monitor.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/x11_monitor.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_monitor.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_window.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/x11_window.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/x11_window.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_window.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/xkb_unicode.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/xkb_unicode.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/xkb_unicode.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/xkb_unicode.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/posix_time.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/posix_time.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/posix_time.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/posix_time.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/posix_thread.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/posix_thread.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/posix_thread.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/glx_context.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/glx_context.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/glx_context.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/glx_context.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/egl_context.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/egl_context.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/egl_context.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/osmesa_context.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/osmesa_context.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/osmesa_context.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/include -I/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src -I/home/morty/code/GLCEngine/build/thirdparty/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/linux_joystick.c.o -c /home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/linux_joystick.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glfw-3.3.8/src/linux_joystick.c",
+  "output": "thirdparty/glfw-3.3.8/src/CMakeFiles/glfw.dir/linux_joystick.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/gcc -I/home/morty/code/GLCEngine/thirdparty/glad/include -g -o thirdparty/glad/CMakeFiles/glad.dir/src/glad.c.o -c /home/morty/code/GLCEngine/thirdparty/glad/src/glad.c",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glad/src/glad.c",
+  "output": "thirdparty/glad/CMakeFiles/glad.dir/src/glad.c.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/g++ -D_CRT_SECURE_NO_WARNINGS -I/home/morty/code/GLCEngine/thirdparty/glm -I/home/morty/code/GLCEngine/thirdparty/glm/test/external -I/home/morty/code/GLCEngine/thirdparty/glm/glm/.. -g   -pedantic -O2 -o thirdparty/glm/glm/CMakeFiles/glm_dummy.dir/detail/dummy.cpp.o -c /home/morty/code/GLCEngine/thirdparty/glm/glm/detail/dummy.cpp",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glm/glm/detail/dummy.cpp",
+  "output": "thirdparty/glm/glm/CMakeFiles/glm_dummy.dir/detail/dummy.cpp.o"
+},
+{
+  "directory": "/home/morty/code/GLCEngine/build",
+  "command": "/usr/bin/g++ -D_CRT_SECURE_NO_WARNINGS -I/home/morty/code/GLCEngine/thirdparty/glm -I/home/morty/code/GLCEngine/thirdparty/glm/test/external -I/home/morty/code/GLCEngine/thirdparty/glm/glm/.. -g   -pedantic -O2 -o thirdparty/glm/glm/CMakeFiles/glm_dummy.dir/detail/glm.cpp.o -c /home/morty/code/GLCEngine/thirdparty/glm/glm/detail/glm.cpp",
+  "file": "/home/morty/code/GLCEngine/thirdparty/glm/glm/detail/glm.cpp",
+  "output": "thirdparty/glm/glm/CMakeFiles/glm_dummy.dir/detail/glm.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mygame.dir/src/main.cpp.o -o mygame  thirdparty/glfw-3.3.8/src/libglfw3.a thirdparty/glad/libglad.a /usr/lib/librt.a -lm -ldl /usr/lib/libX11.so 

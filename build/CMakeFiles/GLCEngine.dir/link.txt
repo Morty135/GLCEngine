@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/GLCEngine.dir/src/loadShaders.cpp.o CMakeFiles/GLCEngine.dir/src/main.cpp.o -o GLCEngine  thirdparty/glfw-3.3.8/src/libglfw3.a thirdparty/glad/libglad.a /usr/lib/librt.a -lm -ldl /usr/lib/libX11.so 
